@@ -1,3 +1,7 @@
+LightningCash added
+
+./vanitygen -C Cash
+
 I'd like to present a standalone command line vanity address generator 
 called vanitygen.
 
